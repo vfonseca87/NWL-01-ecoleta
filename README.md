@@ -1,2 +1,6 @@
 # NWL-01-ecoleta
- Next level week project
+ Next Level Week #01 - Ecoleta
+
+ Development of an web application using HTLM, CSS and Javascript
+
+
