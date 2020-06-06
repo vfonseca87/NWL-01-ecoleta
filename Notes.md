@@ -1,4 +1,4 @@
-Notes from classes #01
+#Notes from classes #01
 
 Create a new file called "index.html". You should avoid create names with spaces or any special character, like "introdução.hmtl" or "página inicial.html". This could be cause some problems in the future. 
 
